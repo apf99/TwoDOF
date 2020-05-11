@@ -138,8 +138,8 @@ t = 0
 mass1 = Mass((150,100), RED, 120, 80)
 mass2 = Mass((150,100), BLUE, 80, 80)
 
-s1 = Spring(BLACK, (0,0), (0,0), 20, 50, 30, 30)
-s2 = Spring(BLACK, (0,0), (0,0), 15, 30, 30, 30)
+s1 = Spring(BLACK, (0,0), (0,0), 20, 50, 20, 70)
+s2 = Spring(BLACK, (0,0), (0,0), 15, 30, 70, 50)
 
 point1 = (35, 300)
 offset1 = 300
